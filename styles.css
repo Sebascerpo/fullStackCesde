@@ -1,0 +1,26 @@
+body {
+	font-family: 'Lora', serif;
+	background-color: antiquewhite;
+  }
+#imghtml{
+	height: 250px;
+	width: 250px;
+}
+#imgcss{
+	height: 250px;
+	width: 200px;
+}
+#imgprogramador{
+	height: 250px;
+	width: 500px;
+}
+.cabecera{
+	text-align: center;
+}
+#titulo{
+	font-size: 40px;
+}
+#titulo2{
+	font-size: 30px;
+	text-align: center;
+}
